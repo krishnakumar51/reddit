@@ -25,7 +25,6 @@ cd reddit
 ### 2. Create a virtual environment and activate it:
 
 ```bash
-# On macOS/Linux
 conda create --name reddit python=3.10 -y
 conda activate reddit
 ```
