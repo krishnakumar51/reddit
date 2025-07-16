@@ -1,0 +1,41 @@
+Kojied
+
+Okay, here's a detailed user persona based on the Reddit data you provided.
+
+## User Persona: AlexNYC
+
+### Image
+While it is difficult to ascertain an exact image from the given information, the user could be someone who frequents bars for music and dance, so they value self expression through style and creativity.
+
+### Details
+
+*   **Name:** AlexNYC (Derived from being active on r/newyorkcity and "Alex" being a common, neutral name.)
+*   **Age:** 28-35 (Based on observing college students going to intern season at 18-20 years of age and remarking at feeling old. Then reminiscing on moving into NYC.) [[https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/](https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/)]
+*   **Role:** iOS Developer, potentially with an interest in spatial computing.  (Based on developing in visionOS, building apps and wanting to learn more about the featuresets.) [[https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/](https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/)]
+*   **Location:** New York City. (Clearly stated in the "violated by intern season" post.) [[https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/](https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/)]
+*   **Type:**  Likely INTJ or INTP. (Shows intellectual curiosity, interest in technology, tendency to analyze, and abstract thinking).
+*   **Motivations:**
+    *   Personal growth and intellectual stimulation. (Evidenced by learning new technologies, philosophical musings, and interest in documentaries.) [[https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/](https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/)]
+    *   Contributing to technological advancements, particularly in spatial computing. (Demonstrated by active engagement with Vision Pro and interest in potential applications). [[https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/](https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/)]
+    *   Desire to understand and improve societal structures and impact. (Shown through interest in ESG ratings and philosophical discussions.) [[https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/](https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/)]
+*   **Attitude:** Generally analytical and reflective, but also open to new experiences. (Considers different perspectives, shows awareness of their own biases, and is willing to engage with new technologies.)
+*   **Personality:**
+    *   Intelligent and curious.
+    *   Analytical and detail-oriented.
+    *   Somewhat philosophical and introspective.
+    *   Slightly cynical but ultimately optimistic about the future.
+    *   Values efficiency and productivity.
+*   **Goal:**
+    *   To leverage technology, specifically spatial computing, to improve their own workflow and contribute to innovative applications. (Driven by using the device for work and thinking of new applications for it.) [[https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/](https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/)]
+    *   To live a fulfilling and meaningful life, contributing to society in a positive way.
+*   **Frustrations:**
+    *   Limitations of current technology, particularly software limitations of the Vision Pro. (Lacks support for key development tools like Github and VS Code.) [[https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/](https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/)]
+    *   Feeling out of place or disconnected from younger generations. (Experienced when visiting the bar.) [[https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/](https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/)]
+    *   Inefficiency and lack of impactful change in existing systems (e.g., ESG ratings).
+*   **Behaviors & Habits:**
+    *   Actively seeks out new information and technologies.
+    *   Spends time exploring potential applications for new devices.
+    *   Engages in online discussions and shares their thoughts and ideas.
+    *   Reflects on their own experiences and how they fit into the larger world.
+    *   Occasionally visits local bars for music and dancing.
+*   **Quote:** "I'm curious to see how spatial computing will transform our daily lives and what problems we can solve with it, but right now it's just frustrating because I can't even get my work done on this thing properly." (Combines their interest in technology with their frustrations.)
